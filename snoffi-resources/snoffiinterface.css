@@ -8,3 +8,19 @@ hanafi.id 2016-2018 all rights reserved
 
 
 */
+
+/*------navbar-----*/
+
+#ng-navbar{
+    background-color : #00FCA8 ; 
+    width : 100% ; 
+}
+#ng-gp-navbar-frist{
+    color : white ; 
+    font-size : 30px;
+    margin-left: 20px ;  
+    
+}
+#header-def{
+    background-color: #8FFFDA ; 
+}
